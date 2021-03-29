@@ -32,3 +32,7 @@ btnCore.onclick=function(){
   lblCore.value = message
   
 }
+
+btnNextPage2.onclick=function(){
+  ChangeForm(mobileNav)
+}
