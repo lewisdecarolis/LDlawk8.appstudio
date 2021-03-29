@@ -20,3 +20,7 @@ else if  (s == "") // a selection made
     console.log(`The user chose ${s} - that is a great choice.`)
   
 }
+
+btnNextPage.onclick=function(){
+  ChangeForm(describeYou)  
+}
